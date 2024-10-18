@@ -16,8 +16,6 @@ Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification
 
 This is me trying to learn a bit more about NLP, long way to go and a lot to learn, will happily accept any contructive criticism and improvement to the code.
 
-Show me the code. Sure!
-
 # Follow these steps to set it up locally
 
 Step 1:
