@@ -1,4 +1,6 @@
 # principle-matching
+This script allows users to input descriptions of their work through speech recognition, then matches each task with relevant workplace principles. It generates a CSV file containing the matched principles, corresponding work descriptions, and confidence scores. This tool is especially useful for employees preparing performance reviews by helping them align their work with company values efficiently.
+
 ### A little backstory:
 Not interested, [show me what did you use to build this](#built-this-using) or even the [Set up process](#follow-these-steps-to-set-it-up-locally) would work.
 
