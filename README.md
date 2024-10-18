@@ -13,4 +13,55 @@ Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification
 
 This is me trying to learn a bit more about NLP, long way to go and a lot to learn, will happily accept any contructive criticism and implovement to the code.
 
+Talk is cheap, show me the code. Sure!
+
+Follow these steps to set it up locally:
+
+Step 1:
+```
+git clone https://github.com/anjali-001/principle-matching.git
+```
+```
+cd principle-matching
+```
+
+Step 2:  Set Up a Virtual Environment
+```
+# Windows
+python -m venv venv
+
+# macOS/Linux
+python3 -m venv venv
+```
+Step 3: Activate the virtual environment
+```
+# Windows
+.\venv\Scripts\activate
+
+# macOS/Linux
+source venv/bin/activate
+```
+
+Step 4: Install Dependencies
+```
+pip install -r requirements.txt
+```
+Step 5: Install PyAudio
+```
+pip install pyaudio
+```
+Step 6: Run script
+```
+ python main.py
+```
+
+Step 7: Deactivate the Virtual Environment :))
+```
+deactivate
+```
+
+
+
+
+
 Done! :,)
