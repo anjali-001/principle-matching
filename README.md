@@ -1,6 +1,6 @@
 # principle-matching
 ### A little backstory:
-[Not interested, show me the the setup process](#follow-these-steps-to-set-it-up-locally)
+Not interested, [show me what did you use to build this](#built-this-using) or even the [Set up process](#follow-these-steps-to-set-it-up-locally) would work.
 
 This is a little python script which I did to automate something I found tedious, matching which `work/feature I built/issue I resolved` matched which `princliple` at my workplace in a performance review. So I thought, this seems like a problem that should have a tool. 
 
@@ -12,11 +12,14 @@ But, if you have to write what you worked on, might as well manually find a prin
 
 I can think of various usecases where this can be useful, principle matching being one of them, might extend the list of usecases.
 
-Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification` and the `facebook/bart-large-mnli` model for text-classification. 
-
 This is me trying to learn a bit more about NLP, long way to go and a lot to learn, will happily accept any contructive criticism and improvement to the code.
 
-# Follow these steps to set it up locally
+### Built this using: 
+
+Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification` and the `facebook/bart-large-mnli` model for text-classification. 
+
+
+# Follow these steps to set it up locally: 
 
 Step 1:
 ```
