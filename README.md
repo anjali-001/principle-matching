@@ -5,9 +5,9 @@ Searched on google for this, could't find a tool. Then I thought, this should no
 
 So, wrote a simple script which basically has a list of principles, and when the user inputs the work they have done, it will give you the most compatible principle it matches with and give the results on a CSV file.
 
-But, if you have to write what you worked on, might as well manually find a principle that matches, right, what is the use for such a tool. So, I used PyAudio and the open-source library `speech-recognition` to have a speech to text input, where the user will just talk about what they worked on, rest of the work will be done by the script itself. And for some weird reason, it was unable to understand when I said "done", so the exit prompt would be saying alright. So, speak what you've worked on, later when you alright, the script will exit the matching loop and give the output in a csv file. 
+But, if you have to write what you worked on, might as well manually find a principle that matches, right, what is the use for such a tool. So, I used PyAudio and the open-source library `speech-recognition` to have a speech to text input, where the user will just talk about what they worked on, rest of the work will be done by the script itself. And for some weird reason, it was unable to understand when I said "done", so the exit prompt would be saying `alright`. So, speak what you've worked on, later when you alright, the script will exit the matching loop and give the output in a csv file. 
 
-I can think of various usecases where this can be useful, principle matching being on of them, might extend the list of usecases.
+I can think of various usecases where this can be useful, principle matching being one of them, might extend the list of usecases.
 
 Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification` and the `facebook/bart-large-mnli` model for text-classification. 
 
