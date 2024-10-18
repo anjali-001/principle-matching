@@ -11,4 +11,6 @@ I can think of various usecases where this can be useful, principle matching bei
 
 Used Hugging Face's `pipeline` for this, NLP technique `zero-shot-classification` and the `facebook/bart-large-mnli` model for text-classification. 
 
+This is me trying to learn a bit more about NLP, long way to go and a lot to learn, will happily accept any contructive criticism and implovement to the code.
+
 Done! :,)
