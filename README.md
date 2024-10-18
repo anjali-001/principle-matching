@@ -1,5 +1,5 @@
 # principle-matching
-This is a little python script which I did to automate something I did not particularly enjoy, matching which `work/feature I built/issue I resolved` matched which `princliple` at my workplace in a performance review. So I thought, this seems like a problem that should have a tool. 
+This is a little python script which I did to automate something I found tedious, matching which `work/feature I built/issue I resolved` matched which `princliple` at my workplace in a performance review. So I thought, this seems like a problem that should have a tool. 
 
 Searched on google for this, could't find a tool. Then I thought, this should not be tough to build, let's try. I am anyway looking to learn ML, although using pre-built NLP model is not ML per say, however not bad for a starting point, right.
 
