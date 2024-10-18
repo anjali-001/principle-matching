@@ -1,4 +1,7 @@
 # principle-matching
+### A little backstory:
+[Not interested, show me the the setup process](#follow-these-steps-to-set-it-up-locally)
+
 This is a little python script which I did to automate something I found tedious, matching which `work/feature I built/issue I resolved` matched which `princliple` at my workplace in a performance review. So I thought, this seems like a problem that should have a tool. 
 
 Searched on google for this, could't find a tool. Then I thought, this should not be tough to build, let's try. I am anyway looking to learn ML, although using pre-built NLP model is not ML per say, however not bad for a starting point, right.
@@ -15,7 +18,7 @@ This is me trying to learn a bit more about NLP, long way to go and a lot to lea
 
 Show me the code. Sure!
 
-Follow these steps to set it up locally:
+# Follow these steps to set it up locally
 
 Step 1:
 ```
